@@ -48,7 +48,7 @@ const projects: Project[] = [
       "A personal website showcasing my skills, projects, and favourite film photos. My first attempt at building a website from scratch, a fun experiment in design and frontend development.",
     tags: ["JavaScript", "HTML", "CSS"],
     github: "https://github.com/shaynelachapelle/personal-website",
-    demo: "https://shaynelachapelle.com/",
+    demo: "https://shaynelachapelle.github.io/personal-website/",
     media: [
       { type: "image", src: "/images/website-preview.JPG" },
       { type: "video", src: "/videos/personal_website_demo.mp4" },
