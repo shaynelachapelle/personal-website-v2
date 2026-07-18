@@ -25,7 +25,7 @@ const projects: Project[] = [
     github: "https://github.com/shaynelachapelle/market-cardinal",
     demo: "https://www.marketcardinal.com/",
     media: [
-      { type: "image", src: "/images/mc_demo_pic.PNG" },
+      { type: "image", src: "/images/mc_demo_pic.png" },
       { type: "video", src: "/videos/mc_demo_vid.mp4" },
     ],
     mediaRatio: "1918/946",
